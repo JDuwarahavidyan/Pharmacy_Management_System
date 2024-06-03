@@ -1,0 +1,11 @@
+10
+Amoxicillin 20 20
+Ciprofloxacin 50 30
+Paracetamol 40 10
+Clindamycin 20 65
+Doxycycline 30 70
+Acetaminophen 100 40
+Omeprazole 55 20
+Fluoxetine 30 15
+Metformin 45 5
+Pantoprazole 35 150
